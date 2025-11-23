@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=250&section=header&text=Привет,%20я%20Павел!&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=250&section=header&text=HELLO,%20I AM%20PAUL&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
   ### 🎮 Godot Developer | 📍 Батуми, Грузия
 
@@ -8,7 +8,7 @@
     <em>"Превращаю идеи в интерактивные миры. Сейчас работаю над проектом Blind Spot."</em>
   </p>
 
-  <a href="https://t.me/ВАШ_НИК">
+  <a href="https://t.me/pgeo2">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:ВАША_ПОЧТА@gmail.com">
@@ -45,8 +45,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geolab1337&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geolab1337&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 
 </div>
